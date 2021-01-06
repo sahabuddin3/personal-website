@@ -1,0 +1,75 @@
+.top-bar{
+    background-color: burlywood;
+    height: 20px;
+}
+.top-bar a{color: black;
+   
+
+}
+.info {
+    color: black;
+    width: 100px;
+    float: right;
+text-decoration: none;}
+ h1{
+     font-size: 45px;
+ }   
+ h2{
+    font-size: 40px;
+
+ }
+.font-look{
+    color: rgb(255, 94, 0);
+}
+.link-button{
+  text-decoration:none ;
+  background-image: linear-gradient( rgb(34, 154, 251),blue);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 600;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+   padding-left: 5%;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+p{
+    color: dimgray;
+}
+
+.top-banner{
+    height: 350px;
+}
+#text{
+    text-align: center;
+}
+.project-area{
+    margin-top: 20px;
+    height: 1000;
+   background-color: rgb(255, 255, 255);
+}
+section{
+    height: 300px;
+}
+
+.width{
+    width: 20%;
+    height: 80%;
+    margin: 4%;
+    padding-left: 5%;
+    border-radius: 5px;
+   float: left;
+}
+a {
+    text-decoration: none;
+}
+.last-banner{
+    background-image: url("image/Group_33094_1.png";
+
+}
